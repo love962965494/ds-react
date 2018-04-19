@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "umi",
+    "airbnb",
+    "plugin:prettier/recommended"
+  ]
+}
